@@ -1,2 +1,3 @@
 # Cyber-Risk-Assessment-Logistics
 A cybersecurity risk assessment and infrastructure management report for Azaak, a global shipping and logistics company. Covers threat identification, ethical hacking perspectives, VPN infrastructure, cloud usage risks, and mitigation strategies across a globally distributed network.
+Performed a cybersecurity risk assessment of Azaak, a global shipping and logistics company with VPN-connected regional data centers and public cloud dependencies. Evaluated risks to infrastructure, applications, and communication systems using ethical hacking approaches and mitigation strategies.
